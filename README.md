@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ares 👋
 
-<!--
-**AresCyberSec/AresCyberSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT and Cybersecurity student building hands-on experience with Linux, networking, system administration, and cybersecurity.
 
-Here are some ideas to get you started:
+## 🛡️ What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐧 Linux system administration and hardening
+* 🌐 Networking and virtualization
+* 🔐 Cybersecurity labs and defensive security
+* 🛰️ Network monitoring with Suricata
+* 🤖 Zeus — a local AI cybersecurity assistant
+* 🧪 Building isolated environments for cybersecurity training
+
+## 🔧 Technologies & Tools
+
+* Linux
+* Kali Linux
+* Python
+* Bash
+* Git & GitHub
+* Suricata
+* UFW
+* Virtual Machines
+* Networking
+* Ollama / Local AI
+
+## 📂 Projects
+
+Projects will be added here as I build and document them.
+
+### Current Projects
+
+* **Zeus** — Local AI cybersecurity assistant
+* **Cybersecurity Lab** — Isolated multi-VM security environment
+* **Network IDS** — Suricata-based network monitoring and alerting
+* **Linux Hardening** — Linux security configuration and system hardening
+
+## 🎯 Goals
+
+Build practical cybersecurity skills through hands-on projects, experimentation, and continuous learning.
