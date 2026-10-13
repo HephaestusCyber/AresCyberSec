@@ -1,4 +1,4 @@
-# Hi, I'm Ares 👋
+# Hi, I'm Hephaestus 👋
 
 I'm an IT and Cybersecurity student building hands-on experience with Linux, networking, system administration, and cybersecurity.
 
